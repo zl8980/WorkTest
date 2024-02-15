@@ -1,0 +1,7 @@
+F:\Work\WorkCSharp\VIP_14\bin\Debug\VIP_14.exe.config
+F:\Work\WorkCSharp\VIP_14\bin\Debug\VIP_14.exe
+F:\Work\WorkCSharp\VIP_14\bin\Debug\VIP_14.pdb
+F:\Work\WorkCSharp\VIP_14\obj\Debug\VIP_14.csproj.AssemblyReference.cache
+F:\Work\WorkCSharp\VIP_14\obj\Debug\VIP_14.csproj.CoreCompileInputs.cache
+F:\Work\WorkCSharp\VIP_14\obj\Debug\VIP_14.exe
+F:\Work\WorkCSharp\VIP_14\obj\Debug\VIP_14.pdb
