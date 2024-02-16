@@ -1,0 +1,7 @@
+F:\Work\WorkCSharp\淘宝\TaoBao\TaoBao.Web\bin\Debug\TaoBao.Web.exe.config
+F:\Work\WorkCSharp\淘宝\TaoBao\TaoBao.Web\bin\Debug\TaoBao.Web.exe
+F:\Work\WorkCSharp\淘宝\TaoBao\TaoBao.Web\bin\Debug\TaoBao.Web.pdb
+F:\Work\WorkCSharp\淘宝\TaoBao\TaoBao.Web\obj\Debug\TaoBao.Web.csproj.AssemblyReference.cache
+F:\Work\WorkCSharp\淘宝\TaoBao\TaoBao.Web\obj\Debug\TaoBao.Web.csproj.CoreCompileInputs.cache
+F:\Work\WorkCSharp\淘宝\TaoBao\TaoBao.Web\obj\Debug\TaoBao.Web.exe
+F:\Work\WorkCSharp\淘宝\TaoBao\TaoBao.Web\obj\Debug\TaoBao.Web.pdb

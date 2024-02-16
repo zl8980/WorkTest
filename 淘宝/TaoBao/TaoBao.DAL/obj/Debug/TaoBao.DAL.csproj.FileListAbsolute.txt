@@ -1,0 +1,6 @@
+F:\Work\WorkCSharp\淘宝\TaoBao\TaoBao.DAL\bin\Debug\TaoBao.DAL.dll
+F:\Work\WorkCSharp\淘宝\TaoBao\TaoBao.DAL\bin\Debug\TaoBao.DAL.pdb
+F:\Work\WorkCSharp\淘宝\TaoBao\TaoBao.DAL\obj\Debug\TaoBao.DAL.csproj.AssemblyReference.cache
+F:\Work\WorkCSharp\淘宝\TaoBao\TaoBao.DAL\obj\Debug\TaoBao.DAL.csproj.CoreCompileInputs.cache
+F:\Work\WorkCSharp\淘宝\TaoBao\TaoBao.DAL\obj\Debug\TaoBao.DAL.dll
+F:\Work\WorkCSharp\淘宝\TaoBao\TaoBao.DAL\obj\Debug\TaoBao.DAL.pdb

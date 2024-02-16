@@ -1,0 +1,6 @@
+F:\Work\WorkCSharp\淘宝\TaoBao\TaoBao.Models\bin\Debug\TaoBao.Models.dll
+F:\Work\WorkCSharp\淘宝\TaoBao\TaoBao.Models\bin\Debug\TaoBao.Models.pdb
+F:\Work\WorkCSharp\淘宝\TaoBao\TaoBao.Models\obj\Debug\TaoBao.Models.csproj.AssemblyReference.cache
+F:\Work\WorkCSharp\淘宝\TaoBao\TaoBao.Models\obj\Debug\TaoBao.Models.csproj.CoreCompileInputs.cache
+F:\Work\WorkCSharp\淘宝\TaoBao\TaoBao.Models\obj\Debug\TaoBao.Models.dll
+F:\Work\WorkCSharp\淘宝\TaoBao\TaoBao.Models\obj\Debug\TaoBao.Models.pdb
